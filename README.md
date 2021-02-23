@@ -9,6 +9,7 @@ It is a website developed for a Brazilian vegan coffee located in Berlin and Lon
 -increasing sales by delivery
 - increase brand reach
 
+
 # Tools
 
-Html, Css, Boostrap, Flask, AIDA (landing page technique)
+HTML, CSS, Boostrap, Flask, AIDA (landing page technique)
