@@ -14,4 +14,4 @@ It is a website developed for a Brazilian vegan coffee located in Berlin and Lon
 Python, JavaScript, HTML, CSS  
 
 # Tools
-Flask, React, Boostrap
+Flask, Boostrap
