@@ -11,7 +11,7 @@ It is a website developed for a Brazilian vegan coffee located in Berlin and Lon
 
 
 # Languages
-Python, JavaScript, HTML, CSS  
+Python, HTML, CSS  
 
 # Tools
 Flask, Boostrap
